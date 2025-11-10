@@ -1,0 +1,40 @@
+# Build directories
+build/
+*.build/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+*.cmake
+
+# VS Code
+.vscode/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.LaTeX
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.tex 
+*.txt
+
+# OS generated
+.DS_Store
+Thumbs.db
+report/
